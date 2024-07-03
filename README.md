@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ryan and I'm a Software Engineering Academic at the State University of Pará.</h2>
+<h2 align="left">Hi👋! My name is Ryan and I'm a Software Engineering Academic at the State University of Pará.</h2>
 
 ###
 
