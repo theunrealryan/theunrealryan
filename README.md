@@ -35,8 +35,6 @@
   
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xdcmwxkexy5aanoybj62czxamu)
-
 ###
 <br clear="both">
 
