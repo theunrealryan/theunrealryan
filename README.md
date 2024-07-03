@@ -35,8 +35,10 @@
   
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xdcmwxkexy5aanoybj62czxamu)
+
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/snake.svg" alt="Snake animation" />
 
