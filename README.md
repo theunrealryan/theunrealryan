@@ -1,13 +1,9 @@
 <h2 align="left">Hi👋! I'm Ryan DevOps & Software Engineering academic at the State University of Pará.</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theunrealryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theunrealryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=theunrealryan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theunrealryan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
 
 <h3>🔧 Tech Stack</h3>
 
@@ -36,7 +32,6 @@
 <div align="left" style="margin-top: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus" />
   <img width="12" />
-  <!-- Loki entre Prometheus e Grafana -->
   <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" height="30" alt="loki" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana" />
@@ -85,35 +80,34 @@
 
 - **Tools:** Git | VS Code
 
-###
 <h3>🏅 Certifications</h3>
 
-<p align="left">
-  <!-- AWS Certified Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/7b2c405b-d5e5-411f-a47c-00f5bc1e7a45" target="_blank">
+<!-- trocado <p> por <div> para remover margem -->
+<div align="left">
+  <a href="https://www.credly.com/badges/7b2c405b-d5e5-411f-a47c-00f5bc1e7a45" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/aws-ccp.png" height="120" alt="AWS Certified Cloud Practitioner" />
   </a>
   <img width="8" />
-  <!-- AWS re/Start Graduate -->
-  <a href="https://www.credly.com/badges/71424dbb-281c-4b13-b174-881962e49f0b" target="_blank">
+  <a href="https://www.credly.com/badges/71424dbb-281c-4b13-b174-881962e49f0b" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/aws-restart.png" height="120" alt="AWS re/Start Graduate" />
   </a>
-</p>
+</div>
 
-###
-
-<h3>🐍 GitHub Contribution Snake</h3>
-
+<b>🐍 GitHub Contribution Snake</b><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
-
-<div> 
-  <a href="https://www.linkedin.com/in/theunrealryan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/theunrealryan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:ryanricardodesouza.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/theunrealryan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/theunrealryan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ryanricardodesouza.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
