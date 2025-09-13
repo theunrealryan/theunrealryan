@@ -96,9 +96,9 @@
 
 <b>🐍 GitHub Contribution Snake</b>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg?palette=github-light">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 </picture>
 
 <div>
