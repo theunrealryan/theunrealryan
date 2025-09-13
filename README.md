@@ -23,6 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
   <img width="12" />
+  <!-- AWS wordmark com “sorriso” -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
 </div>
 
@@ -32,6 +33,7 @@
 <div align="left" style="margin-top: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus" />
   <img width="12" />
+  <!-- Loki entre Prometheus e Grafana -->
   <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" height="30" alt="loki" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana" />
@@ -82,7 +84,6 @@
 
 <h3>🏅 Certifications</h3>
 
-<!-- trocado <p> por <div> para remover margem -->
 <div align="left">
   <a href="https://www.credly.com/badges/7b2c405b-d5e5-411f-a47c-00f5bc1e7a45" target="_blank" rel="noopener noreferrer">
     <img src="assets/badges/aws-ccp.png" height="120" alt="AWS Certified Cloud Practitioner" />
@@ -93,7 +94,7 @@
   </a>
 </div>
 
-<b>🐍 GitHub Contribution Snake</b><br>
+<b>🐍 GitHub Contribution Snake</b>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theunrealryan/theunrealryan/output/github-contribution-grid-snake.svg">
