@@ -10,21 +10,21 @@ DevOps & Cloud intern at **Hydro Energia (Norsk Hydro)** and Software Engineerin
 <h3>🔧 What I work with</h3>
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/azure/azure-original.svg" height="30" alt="azure" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="terraform" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" height="30" alt="python" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/grafana/grafana-original.svg" height="30" alt="grafana" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" height="30" alt="git" />
 </div>
 
 - **Cloud:** Azure (Data Factory, Databricks, Azure Virtual Desktop) · AWS
